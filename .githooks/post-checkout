@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "isca-b2: hook rodou" > /tmp/isca-b2-hook
